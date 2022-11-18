@@ -8,10 +8,10 @@
 
 
   //Константы с url серверных запросов
-const GET_ALL_CATS = "http://sb-cats.herokuapp.com/api/2/gigabyte1511/show";
-const EDIT_CATS = "http://sb-cats.herokuapp.com/api/2/gigabyte1511/update/";
-const DELETE_CATS = "http://sb-cats.herokuapp.com/api/2/gigabyte1511/delete/";
-const ADD_CAT ="http://sb-cats.herokuapp.com/api/2/gigabyte1511/add";
+const GET_ALL_CATS = "https://sb-cats.herokuapp.com/api/2/gigabyte1511/show";
+const EDIT_CATS = "https://sb-cats.herokuapp.com/api/2/gigabyte1511/update/";
+const DELETE_CATS = "https://sb-cats.herokuapp.com/api/2/gigabyte1511/delete/";
+const ADD_CAT ="https://sb-cats.herokuapp.com/api/2/gigabyte1511/add";
 
 //Массив значений ID котов
 const catsIDMass = [];
